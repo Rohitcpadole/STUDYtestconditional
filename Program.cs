@@ -26,7 +26,7 @@ namespace testconditional
             Console.WriteLine("17.C Program to Check Whether a Number is Perfect Number");
             Console.WriteLine("18.C Program to Check Whether a Number is Strong Number");
             Console.WriteLine("19.C Program to Check Whether a Number is a Happy Number");
-            Console.WriteLine("Thanks For Help ");
+            Console.WriteLine("Thanks For Help");
 
 
             Console.WriteLine("Enter your choice");
